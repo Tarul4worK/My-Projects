@@ -1,1 +1,0 @@
-Welcome to my projects repository! Below is a list of all the projects I've worked on, along with links to their respective sites.
